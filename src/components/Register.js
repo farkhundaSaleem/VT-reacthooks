@@ -76,7 +76,7 @@ const Register = () => {
                     />
                   </div>
                   <div className="d-flex flex-row align-items-center justify-content-between">
-                    <button className="btn btn-primary">Create Account</button>
+                    <button className="btn btn-primary">   Create Account   </button>
                   </div>
                 </form>
                 <div>
